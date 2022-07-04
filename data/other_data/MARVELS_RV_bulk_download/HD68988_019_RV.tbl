@@ -1,0 +1,61 @@
+\STAR_ID                            = "TYC 4126-00802-1"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "39"
+\TIME_REFERENCE_FRAME               = "FCJD"
+\MINIMUM_DATE                       = "2454782.949317"
+\DATE_UNITS                         = "days"
+\MAXIMUM_DATE                       = "2455522.982975"
+\MINIMUM_VALUE                      = "-86.715"
+\VALUE_UNITS                        = "m/s"
+\MAXIMUM_VALUE                      = "105.486"
+\REFERENCE                          = "Thomas et al. 2016 (PASP, 128, 5003)"
+\BIBCODE                            = "2016PASP..128d5003T"
+\TELESCOPE                          = "2.5m Sloan Foundation Telescope"
+\INSTRUMENT                         = "MARVELS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Tungsten Iodine Lamp"
+\OBSERVATORY_SITE                   = "Apache Point Observatory, New Mexico"
+\COLUMN_FCJD                        = "Flux Centered Julian Date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           FCJD |   Radial_Velocity |   Radial_Velocity_Uncertainty |
+|         double |            double |                        double |
+|           days |               m/s |                           m/s |
+  2454782.949317              26.233                          53.258
+  2454783.953981             -47.565                          51.908
+  2454786.995926             -63.107                          56.967
+  2454788.005799             -58.663                          50.101
+  2454789.013183             -56.409                          49.875
+  2454807.794734               2.768                          39.226
+  2454811.862326               7.984                          34.779
+  2454812.886076             -86.715                          37.965
+  2454839.811215              25.820                          54.604
+  2454841.009780                -NaN                            -NaN
+  2454842.950336                -NaN                            -NaN
+  2454843.959711                -NaN                            -NaN
+  2454844.973148                -NaN                            -NaN
+  2454845.926285                -NaN                            -NaN
+  2454846.763750                -NaN                            -NaN
+  2454847.859317                -NaN                            -NaN
+  2454866.807951             105.486                          27.431
+  2454867.809167              48.103                          32.118
+  2454868.834444             -33.679                          31.833
+  2454869.830590              14.006                          36.643
+  2454874.780023              78.556                          33.144
+  2454898.780521              62.455                          25.827
+  2454901.766516              26.931                          32.750
+  2454903.598183               3.607                          29.583
+  2454928.744630             -41.656                          21.409
+  2454929.717025             -63.704                          21.290
+  2454931.719688             -77.134                          27.196
+  2454954.693854              28.803                          27.673
+  2454955.632593               1.019                          28.771
+  2454956.637002               6.782                          29.910
+  2454962.633484              25.749                          24.058
+  2454984.642581             -31.470                          31.409
+  2455142.945926             -51.602                          28.752
+  2455198.804850             -45.042                          18.131
+  2455519.977917              29.201                            -NaN
+  2455520.979097              50.960                          14.108
+  2455521.961007              59.681                          22.484
+  2455522.001053              15.430                          14.816
+  2455522.982975              37.172                          13.222

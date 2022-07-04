@@ -1,0 +1,43 @@
+\STAR_ID                            = "NMD1-0904-0213886"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "21"
+\TIME_REFERENCE_FRAME               = "FCJD"
+\MINIMUM_DATE                       = "2455579.917894"
+\DATE_UNITS                         = "days"
+\MAXIMUM_DATE                       = "2456084.639502"
+\MINIMUM_VALUE                      = "-209.480"
+\VALUE_UNITS                        = "m/s"
+\MAXIMUM_VALUE                      = "221.284"
+\REFERENCE                          = "Thomas et al. 2016 (PASP, 128, 5003)"
+\BIBCODE                            = "2016PASP..128d5003T"
+\TELESCOPE                          = "2.5m Sloan Foundation Telescope"
+\INSTRUMENT                         = "MARVELS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Tungsten Iodine Lamp"
+\OBSERVATORY_SITE                   = "Apache Point Observatory, New Mexico"
+\COLUMN_FCJD                        = "Flux Centered Julian Date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           FCJD |   Radial_Velocity |   Radial_Velocity_Uncertainty |
+|         double |            double |                        double |
+|           days |               m/s |                           m/s |
+  2455579.917894                -NaN                            -NaN
+  2455580.898831                -NaN                            -NaN
+  2455582.918657              29.924                          92.905
+  2455583.897396                -NaN                            -NaN
+  2455607.901285                -NaN                            -NaN
+  2455608.872187                -NaN                            -NaN
+  2455611.818738                -NaN                            -NaN
+  2455634.742373              45.433                          87.075
+  2455635.787350              40.524                          69.781
+  2455638.811551             -91.018                          77.474
+  2455667.709514             221.284                          81.453
+  2455694.635718               9.397                          51.418
+  2455936.957396            -108.833                          88.552
+  2455938.027025             -81.232                          77.338
+  2455991.825440             -28.878                          88.846
+  2456018.791331            -209.480                          55.342
+  2456027.815926             -85.374                          72.082
+  2456048.691562             131.980                            -NaN
+  2456052.747373              36.599                          58.502
+  2456079.652060              67.892                          80.907
+  2456084.639502              21.782                          83.358

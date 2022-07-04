@@ -1,0 +1,33 @@
+\STAR_ID                            = "2MASS J02470988+5039372"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "11"
+\TIME_REFERENCE_FRAME               = "FCJD"
+\MINIMUM_DATE                       = "2454805.791863"
+\DATE_UNITS                         = "days"
+\MAXIMUM_DATE                       = "2455514.719919"
+\MINIMUM_VALUE                      = "-165.352"
+\VALUE_UNITS                        = "m/s"
+\MAXIMUM_VALUE                      = "201.989"
+\REFERENCE                          = "Thomas et al. 2016 (PASP, 128, 5003)"
+\BIBCODE                            = "2016PASP..128d5003T"
+\TELESCOPE                          = "2.5m Sloan Foundation Telescope"
+\INSTRUMENT                         = "MARVELS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Tungsten Iodine Lamp"
+\OBSERVATORY_SITE                   = "Apache Point Observatory, New Mexico"
+\COLUMN_FCJD                        = "Flux Centered Julian Date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           FCJD |   Radial_Velocity |   Radial_Velocity_Uncertainty |
+|         double |            double |                        double |
+|           days |               m/s |                           m/s |
+  2454805.791863                -NaN                            -NaN
+  2454807.700660             -11.803                         132.102
+  2454866.581111              29.856                         238.706
+  2454867.604097              96.541                         265.528
+  2455163.699907             -53.245                         176.741
+  2455197.724468            -144.485                         136.520
+  2455468.878565             201.989                         109.496
+  2455469.869896             112.995                          99.954
+  2455497.922454             -25.588                          93.275
+  2455498.896551            -165.352                            -NaN
+  2455514.719919             -40.909                         109.845

@@ -1,0 +1,61 @@
+\STAR_ID                            = "TYC 4127-01113-1"
+\DATA_CATEGORY                      = "Planet Radial Velocity Curve"
+\NUMBER_OF_POINTS                   = "39"
+\TIME_REFERENCE_FRAME               = "FCJD"
+\MINIMUM_DATE                       = "2454782.949317"
+\DATE_UNITS                         = "days"
+\MAXIMUM_DATE                       = "2455522.982975"
+\MINIMUM_VALUE                      = "-133.257"
+\VALUE_UNITS                        = "m/s"
+\MAXIMUM_VALUE                      = "122.257"
+\REFERENCE                          = "Thomas et al. 2016 (PASP, 128, 5003)"
+\BIBCODE                            = "2016PASP..128d5003T"
+\TELESCOPE                          = "2.5m Sloan Foundation Telescope"
+\INSTRUMENT                         = "MARVELS"
+\WAVELENGTH_CALIBRATION_TECHNIQUE   = "Tungsten Iodine Lamp"
+\OBSERVATORY_SITE                   = "Apache Point Observatory, New Mexico"
+\COLUMN_FCJD                        = "Flux Centered Julian Date of observation"
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+\COLUMN_RADIAL_VELOCITY_UNCERTAINTY = "Uncertainty in RADIAL_VELOCITY"
+|           FCJD |   Radial_Velocity |   Radial_Velocity_Uncertainty |
+|         double |            double |                        double |
+|           days |               m/s |                           m/s |
+  2454782.949317              55.483                          25.241
+  2454783.953981              84.354                          26.113
+  2454786.995926              54.431                          29.709
+  2454788.005799              68.769                          23.258
+  2454789.013183              79.311                          25.028
+  2454807.794734             -68.524                          38.797
+  2454811.862326             -74.881                          34.271
+  2454812.886076             -12.963                          33.832
+  2454839.811215             122.257                          32.261
+  2454841.009780              54.283                          37.578
+  2454842.950336              81.734                          28.140
+  2454843.959711              18.789                          34.136
+  2454844.973148              -1.767                          40.302
+  2454845.926285              -1.621                          32.178
+  2454846.763750              33.312                          28.013
+  2454847.859317              35.036                          37.690
+  2454866.807951              -5.905                          17.957
+  2454867.809167              47.701                          19.691
+  2454868.834444             -12.173                          27.055
+  2454869.830590              70.225                          23.343
+  2454874.780023              28.042                          24.596
+  2454898.780521              43.043                          22.743
+  2454901.766516                -NaN                            -NaN
+  2454903.598183                -NaN                            -NaN
+  2454928.744630              12.709                          38.369
+  2454929.717025             -95.968                          23.096
+  2454931.719688              17.736                          17.081
+  2454954.693854             -87.227                          33.313
+  2454955.632593            -133.257                          27.696
+  2454956.637002            -121.038                          24.829
+  2454962.633484            -124.849                          21.751
+  2454984.642581              48.593                          25.285
+  2455142.945926             -43.115                          18.111
+  2455198.804850             101.933                          19.696
+  2455519.977917             -58.668                            -NaN
+  2455520.979097             -65.410                          10.981
+  2455521.961007             -42.599                          12.171
+  2455522.001053             -60.267                          11.751
+  2455522.982975             -47.509                          12.456
